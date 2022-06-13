@@ -1,13 +1,12 @@
 <h1 align="center">Привет, меня зовут <a href="https://github.com/bazraider" target="_blank">Василий</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Я Fullstack-разработчик 👨‍💻</h3>
+<h3 align="center">Я Fullstack-разработчик 👨‍💻. Опыт в Web-разработке один год. В последнее время меня больше привлекает Frontend направление. Ежедневно совершенствую навыки JavaScript, умею работать в коллективе и очень хочу профессионально развиваться. Люблю когда мой проект преображается в классное, приятное и визуально привлекательное приложение. </h3>
 
 ---
 ### Контакты:
 
 [<img align="left" alt="bazraider | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin-2--v1.png" />](https://www.linkedin.com/in/bazraider/)
 [<img align="left" alt="bazraider | Telegram" width="40px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" />](https://t.me/bazraider)
-[<img align="left" alt="bazraider | WhatsApp" width="40px" src="https://img.icons8.com/color/48/000000/whatsapp.png" />](https://wa.me/79030765808)
 [<img align="left" alt="bazraider | Mail" width="40px" src="https://papik.pro/uploads/posts/2022-01/1643628397_1-papik-pro-p-pochta-logotip-1.png" />](mailto:baz_raider@mail.ru)
 
 
